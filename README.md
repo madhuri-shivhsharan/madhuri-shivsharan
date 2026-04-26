@@ -12,7 +12,7 @@ Currently building projects using real-world datasets to strengthen my skills.
 <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/Madhuri_Resume.pdf">
+<a href="https://github.com/madhuri-shivhsharan/blob/main/Madhuri_Resume.pdf">
 <img src="https://img.shields.io/badge/Resume-green?style=for-the-badge&logo=read-the-docs&logoColor=white">
 </a>
 
