@@ -14,4 +14,4 @@ Currently building projects using real-world datasets to strengthen my skills.
 ## 📫 Contact Me
 * 📧 Email: [mshivsharan0301@gmail.com]
 * 🔗 LinkedIn: https://www.linkedin.com/in/madhuri-shivsharan/
- ⭐ I’m actively looking for Data Analyst opportunities!
+-- ⭐ I’m actively looking for Data Analyst opportunities!
