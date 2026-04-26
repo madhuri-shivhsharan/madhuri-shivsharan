@@ -2,6 +2,7 @@
 🎯 Aspiring Data Analyst | Fresher
 I’m passionate about turning raw data into meaningful insights.
 Currently building projects using real-world datasets to strengthen my skills.
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 ## 🛠️ Skills
 * 📊 Excel (Pivot Tables, Dashboards)
 * 🗄️ SQL (Joins, Aggregations, Window Functions)
