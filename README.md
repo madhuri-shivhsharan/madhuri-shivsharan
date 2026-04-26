@@ -4,7 +4,7 @@ I’m passionate about turning raw data into meaningful insights.
 Currently building projects using real-world datasets to strengthen my skills.
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://linkedin.com/in/madhuri-shivsharan/)">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
